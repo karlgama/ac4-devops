@@ -1,0 +1,58 @@
+ 4476  cd faculdade
+ 4477  clear
+ 4478  ls
+ 4479  cd devops-ac
+ 4480  clear
+ 4481  l
+ 4482  mkdir ac4
+ 4483  clear
+ 4484  cd ac4
+ 4485  clear
+ 4486  ls
+ 4487  code .
+ 4488* systemctl stop apache2
+ 4489* systemctl stop mysql
+ 4490* clear
+ 4491* exit
+ 4492  clear
+ 4493  ls
+ 4494  clear
+ 4495  git remote add origin git@github.com:karlgama/ac4-devops.git
+ 4496  git remote remove origin
+ 4497  git remote add origin git@github.com:karlgama/ac4-devops.git
+ 4498  clear
+ 4499  docker image build -t fibonacci .
+ 4500  clear
+ 4501  docker ps
+ 4502  clear
+ 4503* /usr/bin/python3 /home/karl/faculdade/devops-ac/ac4/app.py
+ 4504* clear
+ 4505* /usr/bin/python3 /home/karl/faculdade/devops-ac/ac4/app.py
+ 4506  docker image build -t fibonacci .
+ 4507  docker ps
+ 4508  docker run -p 5001:5000 -d fibonacci
+ 4509  clear
+ 4510  docker ps
+ 4511  clear
+ 4512  git status
+ 4513  git add .
+ 4514  clear
+ 4515  git status
+ 4516* /usr/bin/python3 /home/karl/faculdade/devops-ac/ac4/app.py
+ 4517* clear
+ 4518* /usr/bin/python3 /home/karl/faculdade/devops-ac/ac4/app.py
+ 4519* clear
+ 4520* /usr/bin/python3 /home/karl/faculdade/devops-ac/ac4/app.py
+ 4521* clear
+ 4522* /usr/bin/python3 /home/karl/faculdade/devops-ac/ac4/app.py
+ 4523* clear
+ 4524* /usr/bin/python3 /home/karl/faculdade/devops-ac/ac4/app.py
+ 4525  clear
+ 4526  ls
+ 4527  clear
+ 4528  git status
+ 4529  git add .
+ 4530  clear
+ 4531  git status
+ 4532  clear
+
